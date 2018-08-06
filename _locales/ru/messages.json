@@ -1,0 +1,17 @@
+﻿{
+   "desc": {
+      "message": "Позволяет увеличить фото товара на сайте AliExpress, в категории AliExpress, без посещения страницы товара"
+   },
+   "name": {
+      "message": "AliExpress зум фото товара"
+   },
+   "shortname": {
+      "message": "AliExpress зум"
+   },
+   "title": {
+      "message": "AliExpress зум фото товара"
+   },
+   "share_text": {
+      "message": "Нравится это расширение? Будьте добры поделиться этим с друзьями. Спасибо заранее"
+   }
+}

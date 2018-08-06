@@ -1,0 +1,17 @@
+﻿{
+   "desc": {
+      "message": "Zoom any product photo in search results on the AliExpress website"
+   },
+   "name": {
+      "message": "AliExpress Zoom On Goods"
+   },
+   "shortname": {
+      "message": "AliExpress Zoom"
+   },
+   "title": {
+      "message": "AliExpress Zoom On Goods"
+   },
+   "share_text": {
+      "message": "Like our Extension? Share this with your friends. Thanks in advance"
+   }
+}
